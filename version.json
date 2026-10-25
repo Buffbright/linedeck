@@ -1,7 +1,7 @@
 {
-    "version":  "v2026.10.26 #2",
+    "version":  "v2026.10.26 #3",
     "url":  "https://raw.githubusercontent.com/Buffbright/linedeck/main/LineDeck.zip",
-    "sha256":  "b7e597749d80471948c0f0e1afb203792168de6deca60672705c816023299bf0",
-    "notes":  "เน้นใช้งาน",
-    "date":  "2026-10-26 01:02"
+    "sha256":  "5a5bd8f6b45a892723829f6e0e32956e32eedb9e0d3f59043b3acfecf5c76aa2",
+    "notes":  "ใส่จำนวนกลุ่มใน ไลน์ไก่ได้",
+    "date":  "2026-10-26 01:11"
 }
