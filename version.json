@@ -1,7 +1,7 @@
 {
     "version":  "v2026.10.28 #3",
     "url":  "https://raw.githubusercontent.com/Buffbright/linedeck/main/LineDeck.zip",
-    "sha256":  "0f5517b3211e5bab6637e2d4deb433286dab00d5cc1dc14ddc7e8bc8458bc247",
-    "notes":  "ดึงข้อมูลชื่อไลน์",
-    "date":  "2026-10-28 22:55"
+    "sha256":  "b50e14030f237eaca4a5ea46e5daa8709ee141b9cfc1d7372447bbef017d2fff",
+    "notes":  "ชื่อไลน์",
+    "date":  "2026-10-28 22:57"
 }
