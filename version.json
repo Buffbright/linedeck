@@ -1,7 +1,7 @@
 {
-    "version":  "v2026.10.29 #1",
+    "version":  "v2026.10.29 #4",
     "url":  "https://raw.githubusercontent.com/Buffbright/linedeck/main/LineDeck.zip",
-    "sha256":  "b8e7d60ddb8af8b9c35f62ed7941e175ff44577824039fd5210ab99e375f07cf",
-    "notes":  "แก้ดึงชื่อไลน์",
-    "date":  "2026-10-29 12:37"
+    "sha256":  "9f671e8539f8f7364cdd3f75ecce658d01ba2f36a0e1a54fc5896017c208e4d1",
+    "notes":  "ดึงชื่อ LINE แบบดูหน้าจออย่างเดียว (v2026.10.29 #1): โปรแกรมไม่เปิด ปิด หรือกดอะไรใน LINE แล้ว ถ้า LINE ไม่ได้อยู่หน้าแรก จะขึ้นข้อความให้เปิด LINE ค้างไว้ที่หน้าแรก",
+    "date":  "2026-10-29 22:42"
 }
