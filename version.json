@@ -1,9 +1,9 @@
 {
-    "version":  "v2026.10.30 #6",
+    "version":  "v2026.10.30 #7",
     "url":  "https://raw.githubusercontent.com/Buffbright/linedeck/main/LineDeck.zip",
-    "sha256":  "b766592c8521ba2122c712d2946ebe0e2950b1d4e7fb25ea0039a7b2a1c4d849",
-    "notes":  "   ตรวจไฟล์โปรแกรมอัตโนมัติ (ไฟล์ถูกแก้ = กู้คืนต้นฉบับ) | แก้ค้นหา OA และลบ",
-    "date":  "2026-10-30 01:18",
+    "sha256":  "12bff5653656b723406991229fbb8c338d6b22f8fa16b1f0f8a5007e71db5996",
+    "notes":  "บันทึกประวัติลบ OA (กี่กลุ่ม / # เครื่อง / ชื่อ LINE / วันที่) + ปุ่มดูประวัติ",
+    "date":  "2026-10-30 01:21",
     "files":  {
                   "ADBKeyboard.apk":  "e698adea5633135a067b038f9a0cf41baa4de09888713a81593fb2b9682cdc59",
                   "Adb-LineAddFriend.ps1":  "ba32c56d545fb9b9e01b86dd67cfd0ad18f319c8c0ee3855a1637ae3cbc8422f",
@@ -11,11 +11,11 @@
                   "Adb-LineSelect.ps1":  "cd64d823e4e9376ce1f04f819adbbf19188b827199dea6eecf889e5dd98105bf",
                   "addfriend.png":  "013b998d3742cebe5804f7ec06cba11e98a20ba222f7987f15993f0ef997991a",
                   "config.default.json":  "d9315013b31359e507d01a80dfe8fc30ce9521da3dce804b33a086ef90c8b213",
-                  "LineDeck.ps1":  "5646cd3f945df4e0ed134095f2913b1cfb78c83776771863380605b271bb899f",
+                  "LineDeck.ps1":  "a86f480d25c7b4d17247a2d25419743bc137f78b6293da41ae2520155e7fbd27",
                   "README.txt":  "ad302d65c614e7c8969880e830b701d8605ec492f2d7d3db0a4421546d6fb4a8",
                   "README_UPDATE.txt":  "13d331ad2bdcc866b9bd74009b198991878f398a0c171f3228fcc9b2fadfe24b",
                   "run.bat":  "5e75f3e5a53ddbecb44d5effdfc627ba11c6ca05d2e879097471c3bf9c8c5ce7",
                   "update.json":  "20b32719fd69778a819b8d27cac05b5cc1c82323875c137d3dc2283c2a7cc7cf",
-                  "whatsnew.json":  "10d93e73fc4f4562d247393b8f69992d6cab8c7cad3e4ae76e6a2f2a2becac31"
+                  "whatsnew.json":  "4b78e48983290576c923e702f0b4bd96b2f81350a7b556bc5851df18bb5b840c"
               }
 }
