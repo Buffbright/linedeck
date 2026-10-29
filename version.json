@@ -1,7 +1,7 @@
 {
-    "version":  "v2026.10.30 #2",
+    "version":  "v2026.10.30 #5",
     "url":  "https://raw.githubusercontent.com/Buffbright/linedeck/main/LineDeck.zip",
-    "sha256":  "f1b383bbb626cfa1e15d7eb7eb3a0f3849daf366feb7e64b877b99a0eae96ac0",
-    "notes":  "แก้ปุ่มเริ่มใช้งานกดแล้วไม่ขึ้น | แก้ปุ่มดึงชื่อ LINE ใหม่",
-    "date":  "2026-10-30 00:15"
+    "sha256":  "bdcdee108d7ed50ed93e1458357a133890274b52e02029bcb5917f9a3bde9451",
+    "notes":  "แก้ค้นหา OA และลบ: สแกนกลุ่มก่อนแล้วเข้าทีละกลุ่ม ไม่ซ้ำ",
+    "date":  "2026-10-30 01:12"
 }
